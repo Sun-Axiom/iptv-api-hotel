@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2026-02-27 19:50:49,http://119.190.201.210:85/tsfile/live/26/2001_1.m3u8?key=txiptv
+2026-02-27 20:14:26,http://119.190.201.210:85/tsfile/live/26/2001_1.m3u8?key=txiptv
 
 📺央视频道,#genre#
 CCTV-1,http://119.190.201.210:85/tsfile/live/26/2001_1.m3u8?key=txiptv
 CCTV-2,http://119.190.201.210:85/tsfile/live/27/2002_1.m3u8?key=txiptv
-CCTV-3,http://171.120.249.236:9003/hls/3/index.m3u8
+CCTV-3,http://119.190.201.210:85/tsfile/live/28/2003_1.m3u8?key=txiptv
 CCTV-4,http://119.190.201.210:85/tsfile/live/29/2004_1.m3u8?key=txiptv
 CCTV-5,http://119.190.201.210:85/tsfile/live/30/2005_1.m3u8?key=txiptv
 CCTV-5+,http://171.120.29.4:9003/hls/6/index.m3u8
@@ -26,7 +26,7 @@ CHC家庭影院,http://42.227.89.129:9003/hls/61/index.m3u8
 📡卫视频道,#genre#
 广东卫视,http://171.120.249.236:9003/hls/26/index.m3u8
 浙江卫视,http://119.190.201.210:85/tsfile/live/43/2018_1.m3u8?key=txiptv
-湖南卫视,http://171.120.29.4:9003/hls/33/index.m3u8
+湖南卫视,http://119.190.201.210:85/tsfile/live/41/2016_1.m3u8?key=txiptv
 北京卫视,http://119.190.201.210:85/tsfile/live/44/2019_1.m3u8?key=txiptv
 湖北卫视,http://119.190.201.210:85/tsfile/live/48/2023_1.m3u8?key=txiptv
 黑龙江卫视,http://171.120.249.236:9003/hls/31/index.m3u8
