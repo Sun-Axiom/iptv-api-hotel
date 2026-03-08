@@ -1,14 +1,14 @@
 🕘️更新时间,#genre#
-2026-03-05 18:33:43,http://119.190.201.210:85/tsfile/live/26/2001_1.m3u8?key=txiptv
+2026-03-08 10:21:51,http://113.241.133.223:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
-CCTV-1,http://119.190.201.210:85/tsfile/live/26/2001_1.m3u8?key=txiptv
+CCTV-1,http://113.241.133.223:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://119.190.201.210:85/tsfile/live/27/2002_1.m3u8?key=txiptv
 CCTV-3,http://113.241.133.223:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://119.190.201.210:85/tsfile/live/29/2004_1.m3u8?key=txiptv
-CCTV-5,http://119.190.201.210:85/tsfile/live/30/2005_1.m3u8?key=txiptv
+CCTV-5,http://113.241.133.223:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://113.241.133.223:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://119.190.201.210:85/tsfile/live/31/2006_1.m3u8?key=txiptv
+CCTV-6,http://113.241.133.223:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://119.190.201.210:85/tsfile/live/32/2007_1.m3u8?key=txiptv
 CCTV-8,http://113.241.133.223:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://171.120.29.4:9003/hls/10/index.m3u8
